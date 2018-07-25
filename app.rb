@@ -5,4 +5,10 @@ class App < Sinatra::Base
   get '/name' do 
     "My name is Geoff"
   end
+  
+   get '/hometown' do 
+    "My name is Geoff"
+  end
+  
+  
 end
